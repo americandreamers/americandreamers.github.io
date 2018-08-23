@@ -1,0 +1,76 @@
+html{
+    background-color: #ffffff
+}
+h1{
+    color: #ccaa00;
+    margin: 20px auto;
+}
+p{
+    margin:5px;
+    color:#000000;
+    font-size: 25px;
+}
+@keyframes awyeahfull {
+    @keyframes awyeah{
+    from {background-image: url("../Screenshots/bendy_and_the_ink_machine_by_smudgeandfrank-db2k8c6.jpg");;}
+    to {background-image: url("../Screenshots/BillCipher.png");;}}
+    @keyframes awyeah1{
+    from {background-image: url("../Screenshots/BillCipher.png");;}
+    to {background-image: url("../Screenshots/download.jpeg");;}}
+    @keyframes awyeah2{
+    from {background-image: url("../Screenshots/download.jpeg");;}
+    to {background-image: url("../Screenshots/maxresdefault.jpg");;}}
+    @keyframes awyeah3{
+    from {background-image: url("../Screenshots/maxresdefault.jpg");;}
+    to {background-image: url("../Screenshots/S5e48_Betty_about_to_punch_Bella_Noche.png");;}}
+    @keyframes awyeah4{
+    from {background-image: url("../Screenshots/S5e48_Betty_about_to_punch_Bella_Noche.png");;}
+    to {background-image: url("../Screenshots/bendy_and_the_ink_machine_by_smudgeandfrank-db2k8c6.jpg");;}}
+}
+.awyeah{
+    width: 1280px;
+    height: 1026px;
+    background-image: url("../Screenshots/bendy_and_the_ink_machine_by_smudgeandfrank-db2k8c6.jpg");
+    animation-name: awyeahfull;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+.header{
+    width: 100%;
+    height: 200px;
+    background-color: #aaaaaa;
+}
+button{
+    background-color: #aa6666;
+    color: 000000;
+    font-size: 50px;
+}
+.demon1{
+    color:#00aaaa;
+    font-family: fantasy;
+    font-size: 25px;
+}
+.demon2{
+    color:#FFFF00;
+    font-family: monospace;
+    font-size: 25px;
+}
+.box{
+    width: 47%;
+    height: 47%;
+    margin: 3%;
+    background-color: #aa6666;
+}
+.col-md-6{
+    border: 5px dotted #000000;
+    margin:5px auto;
+}#aa5500
+
+img{
+    border: 5px dotted #000000;
+}
+blockquote{
+    margin:5px;
+    color:#000000;
+    font-size: 25px;
+    font-weight: 400;
